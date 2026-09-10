@@ -1,21 +1,21 @@
 body {
-  background: #af8fff;
+  background: #c9b5fc;
   color: #e6f1ff;
   font-family: "Segoe UI", sans-serif;
   padding: 20px;
 }
 
 h1 {
-  color: #eecc22;
+  color: #9c61be;
 }
 
 h2 {
-  color: #a855f7;
+  color: #f860fd;
 }
 
 .tarea {
-  background: #8a877e;
-  border: 1px solid #351c52;
+  background: #a41bff;
+  border: 1px solid #f6f4f8;
   border-radius: 8px;
   padding: 10px 14px;
   margin-bottom: 10px;
